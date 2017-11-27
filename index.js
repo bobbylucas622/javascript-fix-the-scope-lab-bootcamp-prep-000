@@ -18,11 +18,9 @@ function add2(n) {
   const two = 2
 
 }
- theFunk = 'funky!'; 
- return theFunk.toUpperCase()                                  
-{
-  
-}
+ theFunk = 'funky!'
+ return theFunk.toUpperCase();                                
+ }
  
   
 
