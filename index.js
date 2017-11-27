@@ -21,7 +21,7 @@ function add2(n) {
 }
 
 var theFunk = 'funky!'; 
-return funkyFunction.toUpperCase()                                  
+return theFunk.toUpperCase()                                  
 {
   
 }
