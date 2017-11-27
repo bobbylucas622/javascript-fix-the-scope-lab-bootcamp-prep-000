@@ -20,9 +20,10 @@ function add2(n) {
   return string.toUpperCase()
 }
 
-var funkyFunction = function() {
+var funkyFunction = 'funky!'; {
    
     return funkyFunction.toUpperCase()
+ 
   }
   
 }
