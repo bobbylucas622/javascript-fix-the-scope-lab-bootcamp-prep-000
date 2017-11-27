@@ -16,12 +16,15 @@ function add2(n) {
 
   // Feel free to move things around!
   const two = 2
+}function shout(string) {
+  return string.toUpperCase()
 }
 
 var funkyFunction = function() {
-  return function() {
-    return "FUNKY!"
+   
+    return funkyFunction.toUpperCase()
   }
+  
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
